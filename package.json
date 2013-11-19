@@ -1,0 +1,11 @@
+{
+  "name": "toggle_js",
+  "title": "Toggle JavaScript",
+  "id": "jid1-KYgT07tufVQH4w",
+  "description": "A simple toolbar button to quickly toggle javascript between enabled or disabled",
+  "author": "dbyrne",
+  "license": "GNU GPL v3",
+  "icon":"data/icon.png",
+  "icon64":"data/icon64.png",
+  "version": "0.2"
+}
