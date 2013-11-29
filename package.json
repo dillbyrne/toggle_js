@@ -8,5 +8,5 @@
   "permissions": {"private-browsing": true},
   "icon":"data/icon.png",
   "icon64":"data/icon64.png",
-  "version": "0.3"
+  "version": "0.4"
 }
