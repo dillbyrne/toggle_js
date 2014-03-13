@@ -6,7 +6,7 @@
   "author": "dbyrne",
   "license": "GNU GPL v3",
   "permissions": {"private-browsing": true},
-  "icon":"data/icon.png",
-  "icon64":"data/icon64.png",
-  "version": "0.4"
+  "icon":"data/images/icon.png",
+  "icon64":"data/images/icon64.png",
+  "version": "0.5"
 }
