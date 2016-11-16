@@ -5,8 +5,11 @@
   "description": "A simple toolbar button to quickly toggle javascript between enabled or disabled",
   "author": "dbyrne",
   "license": "GNU GPL v3",
-  "permissions": {"private-browsing": true},
+  "permissions": {
+	  "private-browsing": true,
+	  "multiprocess": true
+  },
   "icon":{"48": "icon.png"},
-  "version": "0.9",
+  "version": "1.0",
   "main":"lib/main.js"
 }
